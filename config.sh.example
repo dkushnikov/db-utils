@@ -1,9 +1,10 @@
-db_project_name = ""
+#!/usr/bin/env bash
 
+db_project_name=""
 
-db_mysql_username = "root"
-db_mysql_host = "localhost"
-db_mysql_port = "3306"
+db_mysql_username="root"
+db_mysql_host="localhost"
+db_mysql_port="3306"
 
-db_mongodb_host = "127.0.0.1"
-db_mongodb_port = "27017"
+db_mongodb_host="127.0.0.1"
+db_mongodb_port="27017"
